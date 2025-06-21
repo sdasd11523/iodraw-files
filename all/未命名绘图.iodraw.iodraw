@@ -73,8 +73,8 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-145" value="&lt;h2&gt;正向突变酶活比较&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-146" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-146" value="发酵优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="860" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
