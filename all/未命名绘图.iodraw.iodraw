@@ -63,7 +63,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-116" value="突变位点筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-116" value="&lt;h2&gt;突变位点筛选&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-121" value="&lt;h2&gt;寻找正向突变点&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -75,7 +75,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-124" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-125" value="2.表面带点残基优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-125" value="&lt;h2&gt;2.表面带点残基优化&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="830" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
