@@ -62,10 +62,10 @@
           <mxGeometry x="220" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-142" value="在枯草芽孢杆菌中表达野生型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-143" value="分泌型信号肽筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
