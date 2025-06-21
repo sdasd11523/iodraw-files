@@ -22,6 +22,9 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-111" value="&lt;h2&gt;野生型酶活反应条件优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-112" target="hN_SeQ9sXVp-KodAlVwS-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-112" value="&lt;h2&gt;组合突变&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="860" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,6 +32,9 @@
           <mxGeometry x="50" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-116" target="hN_SeQ9sXVp-KodAlVwS-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-116" target="hN_SeQ9sXVp-KodAlVwS-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-116" value="&lt;h2&gt;突变位点筛选&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
