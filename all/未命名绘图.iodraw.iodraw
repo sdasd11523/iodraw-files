@@ -7,7 +7,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-108" target="hN_SeQ9sXVp-KodAlVwS-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-108" value="&lt;h2&gt;序列比对分析保结构域&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-108" value="&lt;h2&gt;序列比对分析保结构域&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-109" target="hN_SeQ9sXVp-KodAlVwS-111">
