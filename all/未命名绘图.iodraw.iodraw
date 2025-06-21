@@ -55,7 +55,7 @@
           <mxGeometry x="50" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-109" value="蛋白建模与分子对接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-111" value="野生型酶活反应条件优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="470" width="120" height="60" as="geometry" />
