@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-142" value="&lt;h2&gt;在枯草中表达野生型&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-143" target="hN_SeQ9sXVp-KodAlVwS-145">
           <mxGeometry relative="1" as="geometry" />
