@@ -92,7 +92,7 @@
           <mxGeometry x="860" y="760" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-159" value="&lt;h1&gt;第一部份&amp;nbsp; &amp;nbsp;酶改造&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;gradientDirection=west;shadow=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="10" y="340" width="250" height="80" as="geometry" />
+          <mxGeometry y="340" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-179" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;flowAnimation=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-165" target="hN_SeQ9sXVp-KodAlVwS-146">
           <mxGeometry relative="1" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry x="660" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-184" value="&lt;h1&gt;第二部份&amp;nbsp; &amp;nbsp;表达优化&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;gradientDirection=west;shadow=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="795" y="330" width="250" height="80" as="geometry" />
+          <mxGeometry x="810" y="330" width="250" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
