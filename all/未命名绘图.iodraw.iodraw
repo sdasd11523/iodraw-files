@@ -20,46 +20,46 @@
           <mxGeometry x="50" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-97" value="&lt;h2&gt;突变位点筛选&lt;/h2&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="767.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="360" y="837.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-98" value="1.活性口袋内部优化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="810" width="100" height="50" as="geometry" />
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-98" value="&lt;h2&gt;1.活性口袋内部优化&lt;/h2&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="880" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-99" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-97" target="hN_SeQ9sXVp-KodAlVwS-98">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="810" />
-              <mxPoint x="188" y="835" />
+              <mxPoint x="472" y="880" />
+              <mxPoint x="498" y="905" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-100" value="&lt;h2&gt;2.表面带点残基优化&lt;/h2&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="740" width="100" height="40" as="geometry" />
+          <mxGeometry x="510" y="810" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-101" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-97" target="hN_SeQ9sXVp-KodAlVwS-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="162" y="785" />
-              <mxPoint x="188" y="760" />
+              <mxPoint x="472" y="855" />
+              <mxPoint x="498" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-102" value="寻找正向突变位点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="777.5" width="100" height="40" as="geometry" />
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-102" value="&lt;h2&gt;寻找正向突变位点&lt;/h2&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="847.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-103" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-98" target="hN_SeQ9sXVp-KodAlVwS-102">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="312" y="835" />
-              <mxPoint x="338" y="805" />
+              <mxPoint x="622" y="905" />
+              <mxPoint x="648" y="875" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-104" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-100" target="hN_SeQ9sXVp-KodAlVwS-102">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="312" y="760" />
-              <mxPoint x="338" y="790" />
+              <mxPoint x="622" y="830" />
+              <mxPoint x="648" y="860" />
             </Array>
           </mxGeometry>
         </mxCell>
