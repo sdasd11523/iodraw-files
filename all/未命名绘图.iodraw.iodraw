@@ -34,13 +34,10 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-116" target="hN_SeQ9sXVp-KodAlVwS-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-116" target="hN_SeQ9sXVp-KodAlVwS-125">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-116" target="hN_SeQ9sXVp-KodAlVwS-125">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-116" target="hN_SeQ9sXVp-KodAlVwS-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-116" target="hN_SeQ9sXVp-KodAlVwS-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-116" value="&lt;h2&gt;突变位点筛选&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
