@@ -70,7 +70,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-143" target="hN_SeQ9sXVp-KodAlVwS-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-143" value="&lt;h2&gt;分泌型信号肽筛选&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-143" value="&lt;h2&gt;分泌型信号肽筛选&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-144" target="hN_SeQ9sXVp-KodAlVwS-148">
@@ -82,7 +82,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-145" target="hN_SeQ9sXVp-KodAlVwS-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-145" value="&lt;h2&gt;正向突变酶活比较&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-145" value="&lt;h2&gt;正向突变酶活比较&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-146" value="&lt;h2&gt;发酵优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
