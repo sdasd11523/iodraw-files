@@ -118,7 +118,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-167" value="1.初始pH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-168" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-168" value="2.发酵温度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
