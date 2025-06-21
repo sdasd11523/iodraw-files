@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-111" value="&lt;h2&gt;野生型酶活反应条件优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-112" value="&lt;h2&gt;组合突变，确定最高酶活组合&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="880" width="120" height="60" as="geometry" />
