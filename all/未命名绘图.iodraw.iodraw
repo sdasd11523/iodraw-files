@@ -49,9 +49,6 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-116" value="&lt;h2&gt;突变位点筛选&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-121" value="&lt;h2&gt;寻找正向突变点&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-123" value="&lt;h2 style=&quot;font-size: 18px; line-height: 100%;&quot;&gt;1.活性口袋内部优化&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="710" width="120" height="60" as="geometry" />
         </mxCell>
@@ -60,16 +57,6 @@
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-125" value="&lt;h2&gt;2.表面带点残基优化&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="810" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-138" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="740" as="sourcePoint" />
-            <mxPoint x="410" y="690" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="410" y="740" />
-              <mxPoint x="360" y="690" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
