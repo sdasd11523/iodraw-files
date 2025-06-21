@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-108" value="&lt;h2&gt;序列比对分析保结构域&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-109" value="&lt;h2&gt;蛋白建模与分子对接&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-111" value="&lt;h2&gt;野生型酶活反应条件优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="50" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-116" value="&lt;h2&gt;突变位点筛选&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-121" value="&lt;h2&gt;寻找正向突变点&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="770" width="120" height="60" as="geometry" />
