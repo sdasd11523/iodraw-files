@@ -104,13 +104,10 @@
           <mxGeometry x="470" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-159" value="&lt;h2&gt;第一部份&lt;br&gt;酶改造&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-160" value="&lt;h2&gt;第二部分&lt;br&gt;表达优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-161" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
