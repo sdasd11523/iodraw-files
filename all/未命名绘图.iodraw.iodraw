@@ -112,7 +112,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-165" value="3.发酵时间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="810" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-166" value="4.营养成分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-166" value="4.营养成分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-167" value="1.初始pH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
