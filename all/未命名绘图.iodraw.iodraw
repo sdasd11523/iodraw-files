@@ -19,7 +19,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-111" target="hN_SeQ9sXVp-KodAlVwS-116">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-111" value="&lt;h2&gt;野生型酶活反应条件优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-111" value="&lt;h2&gt;野生型酶活反应条件优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-112" target="hN_SeQ9sXVp-KodAlVwS-113">
@@ -58,7 +58,7 @@
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-123" value="&lt;h2 style=&quot;font-size: 18px; line-height: 100%;&quot;&gt;1.活性口袋内部优化&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-125" value="&lt;h2&gt;2.表面带点残基优化&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-125" value="&lt;h2&gt;2.表面带点残基优化&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hN_SeQ9sXVp-KodAlVwS-142" target="hN_SeQ9sXVp-KodAlVwS-143">
