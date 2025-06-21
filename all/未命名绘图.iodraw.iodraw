@@ -116,9 +116,9 @@
           <mxGeometry x="640" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-159" value="&lt;h2&gt;第一部份&lt;br&gt;酶改造&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;glass=0;fillColor=#e51400;strokeColor=none;fontColor=#ffffff;gradientColor=none;gradientDirection=west;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="330" width="170" height="80" as="geometry" />
+          <mxGeometry x="25" y="330" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hN_SeQ9sXVp-KodAlVwS-160" value="&lt;h2&gt;第二部分&lt;br&gt;表达优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+        <mxCell id="hN_SeQ9sXVp-KodAlVwS-160" value="&lt;h2&gt;第二部分&lt;br&gt;表达优化&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="615" y="330" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hN_SeQ9sXVp-KodAlVwS-165" value="&lt;h2&gt;3.发酵时间&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
